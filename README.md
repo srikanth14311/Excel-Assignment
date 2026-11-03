@@ -15,9 +15,9 @@ Dataset Columns:
 
 Column Name	Description
 
-Product ID - Unique identification number of each product
+|Product ID | Unique identification number of each product
 
-Product Name - Name of the product
+|Product Name | Name of the product
 
 Brand Name - Brand associated with the product
 
