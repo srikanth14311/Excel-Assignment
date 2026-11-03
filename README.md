@@ -6,6 +6,7 @@
 This project demonstrates fundamental Excel skills that are essential for a beginner Data Analyst.
 
 2. Dataset Description:
+
 Dataset Name: Product Dataset
 
 The dataset contains information about different products, including their identification details, brand information, quantity, category, and price.
