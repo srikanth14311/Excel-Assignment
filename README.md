@@ -137,8 +137,9 @@ Text Manipulation
 Basic Data Analysis
 
 ## 7. Tools Used:
-Microsoft Excel: Data exploration, calculations, and analysis.	
-GitHub: Project documentation and portfolio management.
+| Tool | Names |
+| Microsoft Excel:| Data exploration, calculations, and analysis.	
+| GitHub:| Project documentation and portfolio management.
 
 ## 8. Key Learning Outcomes:
 Learned how to summarize datasets using Excel formulas.
