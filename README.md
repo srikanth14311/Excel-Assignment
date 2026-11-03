@@ -66,6 +66,7 @@ RIGHT - Extracts the last two characters of Product ID
 MID - Extracts characters from the middle of Product ID
 
 5. Tasks Performed:
+
 Task 1: Basic Data Exploration:
 
 Performed the following calculations:
@@ -90,10 +91,13 @@ Products were categorized based on the following conditions:
 Condition	Classification
 Price >= $500	High Price
 Price < $500	Standard Price
+
 Excel Formula:
 
 =IF(F2>=500,"High Price","Standard Price")
+
 Task 4: Conditional Functions – SUMIF and COUNTIF
+
 Performed conditional calculations:
 
 1. Total Price of Electronics Products:
