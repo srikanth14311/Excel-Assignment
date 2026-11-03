@@ -1,22 +1,30 @@
 📊 Product Dataset Analysis Using Microsoft Excel
 1. Project Overview
- This project focuses on performing basic data exploration and analysis using Microsoft Excel. The objective is to analyze a         product dataset using Excel formulas and functions to calculate summary statistics, categorize products based on price, perform conditional calculations, and extract useful information from Product IDs.
+ This project focuses on performing basic data exploration and analysis using Microsoft Excel.
+ The objective is to analyze a product dataset using Excel formulas and functions to calculate summary statistics, categorize products     based on price, perform conditional calculations, and extract useful information from Product IDs.
 
 This project demonstrates fundamental Excel skills that are essential for a beginner Data Analyst.
 
 2. Dataset Description:
 Dataset Name: Product Dataset
+
 The dataset contains information about different products, including their identification details, brand information, quantity, category, and price.
+
 Dataset Columns:
 Column Name	Description
 Product ID - Unique identification number of each product
+
 Product Name - Name of the product
+
 Brand Name - Brand associated with the product
+
 Quantity - Available quantity of the product
+
 Category - Product category
+
 Price - Price of the product
 
-3. Project Objectives:
+4. Project Objectives:
 The main objectives of this project are:
 Perform basic data exploration.
 Calculate total, count, and average values.
@@ -26,7 +34,7 @@ Perform conditional calculations.
 Extract specific information from Product IDs.
 Improve practical Excel formula skills.
 
-4. Excel Functions Used:
+5. Excel Functions Used:
 This project uses the following Excel functions:
 
 Function	Purpose:
@@ -37,25 +45,37 @@ COUNT / COUNTA - Counts numeric values or non-empty product records
 AVERAGE - Calculates the average product price
 
 MIN - Identifies the minimum product price
+
 MAX - Identifies the maximum product price
+
 IF - Categorizes products based on price
+
 SUMIF - Calculates the total price of Electronics products
+
 COUNTIF - Counts products with a price below $100
+
 LEFT - Extracts the first two characters of Product ID
+
 RIGHT - Extracts the last two characters of Product ID
+
 MID - Extracts characters from the middle of Product ID
 
 5. Tasks Performed:
 Task 1: Basic Data Exploration:
 Performed the following calculations:
+
 Total Price: Calculated the sum of all product prices.
+
 Total Products: Counted the number of products in the dataset.
+
 Average Price: Calculated the average price of all products.
 
 Task 2: Minimum and Maximum Values
 Identified:
 Minimum Price: Lowest product price.
+
 Maximum Price: Highest product price.
+
 Task 3: Logical Function – IF
 Created a new column named Price Range.
 
