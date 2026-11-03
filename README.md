@@ -79,6 +79,7 @@ Average Price: Calculated the average price of all products.
 
 Task 2: Minimum and Maximum Values
 Identified:
+
 Minimum Price: Lowest product price.
 
 Maximum Price: Highest product price.
