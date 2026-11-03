@@ -15,9 +15,9 @@ Dataset Columns:
 
 Column Name	Description
 
-|Product ID | Unique identification number of each product
+Product ID - Unique identification number of each product
 
-|Product Name | Name of the product
+Product Name - Name of the product
 
 Brand Name - Brand associated with the product
 
@@ -136,10 +136,10 @@ Conditional Aggregation
 Text Manipulation
 Basic Data Analysis
 
-## 7.| Tools Used:|
-| Tool | Names |
-| Microsoft Excel:| Data exploration, calculations, and analysis.	
-| GitHub:| Project documentation and portfolio management.
+## 7. Tools Used:
+
+ Microsoft Excel:Data exploration, calculations, and analysis.	
+ GitHub:Project documentation and portfolio management.
 
 ## 8. Key Learning Outcomes:
 Learned how to summarize datasets using Excel formulas.
