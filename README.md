@@ -1,5 +1,6 @@
 # 📊 Product Dataset Analysis Using Microsoft Excel
-1. Project Overview
+## 1. Project Overview:
+ 
  This project focuses on performing basic data exploration and analysis using Microsoft Excel.
  The objective is to analyze a product dataset using Excel formulas and functions to calculate summary statistics, categorize products     based on price, perform conditional calculations, and extract useful information from Product IDs.
 
