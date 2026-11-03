@@ -26,7 +26,7 @@ Category - Product category
 
 Price - Price of the product
 
-4. Project Objectives:
+3. Project Objectives:
 
 The main objectives of this project are:
 Perform basic data exploration.
@@ -37,7 +37,7 @@ Perform conditional calculations.
 Extract specific information from Product IDs.
 Improve practical Excel formula skills.
 
-5. Excel Functions Used:
+4. Excel Functions Used:
 
 This project uses the following Excel functions:
 
@@ -120,7 +120,7 @@ Extracted the last two characters from Product ID.
 Extracted characters from the 4th to 6th positions of Product ID.
 =MID(A2,4,3)
 
-6. Skills Demonstrated
+6. Skills Demonstrated:
 Through this project, I demonstrated the following skills:
 Microsoft Excel
 Data Exploration
@@ -130,11 +130,11 @@ Conditional Aggregation
 Text Manipulation
 Basic Data Analysis
 
-7. Tools Used
+7. Tools Used:
 Microsoft Excel: Data exploration, calculations, and analysis.	
 GitHub: Project documentation and portfolio management.
 
-8. Key Learning Outcomes
+8. Key Learning Outcomes:
 Learned how to summarize datasets using Excel formulas.
 Understood how to apply logical conditions using the IF function.
 Practiced conditional calculations using SUMIF and COUNTIF.
