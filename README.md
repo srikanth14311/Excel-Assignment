@@ -68,7 +68,7 @@ MID - Extracts characters from the middle of Product ID
 
 ## 5. Tasks Performed:
 
-Task 1: Basic Data Exploration:
+### Task 1: Basic Data Exploration:
 
 Performed the following calculations:
 
@@ -78,14 +78,14 @@ Total Products: Counted the number of products in the dataset.
 
 Average Price: Calculated the average price of all products.
 
-Task 2: Minimum and Maximum Values
+### Task 2: Minimum and Maximum Values
 Identified:
 
 Minimum Price: Lowest product price.
 
 Maximum Price: Highest product price.
 
-Task 3: Logical Function – IF
+### Task 3: Logical Function – IF
 Created a new column named Price Range.
 
 Products were categorized based on the following conditions:
@@ -98,31 +98,31 @@ Price < $500	Standard Price
 
 =IF(F2>=500,"High Price","Standard Price")
 
-Task 4: Conditional Functions – SUMIF and COUNTIF
+### Task 4: Conditional Functions – SUMIF and COUNTIF
 
 Performed conditional calculations:
 
-1. Total Price of Electronics Products:
+### 1. Total Price of Electronics Products:
 Used SUMIF to calculate the total price of products belonging to the Electronics category.
 =SUMIF(E2:E100,"Electronics",F2:F100)
 
-2. Count Products Below $100
+### 2. Count Products Below $100
 Used COUNTIF to count the number of products whose price is less than $100.
 =COUNTIF(F2:F100,"<100")
 
-Task 5: Text Formatting – LEFT, RIGHT, MID
+### Task 5: Text Formatting – LEFT, RIGHT, MID
 Extracted specific information from the Product ID column and created three new columns.
 
-1. Day – LEFT Function
+### 1. Day – LEFT Function
 
 Extracted the first two characters from Product ID.
 =LEFT(A2,2)
 
-2. Country Code – RIGHT Function
+### 2. Country Code – RIGHT Function
 Extracted the last two characters from Product ID.
 =RIGHT(A2,2)
 
-3. Month – MID Function
+### 3. Month – MID Function
 Extracted characters from the 4th to 6th positions of Product ID.
 =MID(A2,4,3)
 
