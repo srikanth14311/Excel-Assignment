@@ -25,6 +25,7 @@ Category - Product category
 Price - Price of the product
 
 4. Project Objectives:
+
 The main objectives of this project are:
 Perform basic data exploration.
 Calculate total, count, and average values.
@@ -35,9 +36,11 @@ Extract specific information from Product IDs.
 Improve practical Excel formula skills.
 
 5. Excel Functions Used:
+
 This project uses the following Excel functions:
 
 Function	Purpose:
+
 SUM - Calculates the total price of all products
 
 COUNT / COUNTA - Counts numeric values or non-empty product records
@@ -62,6 +65,7 @@ MID - Extracts characters from the middle of Product ID
 
 5. Tasks Performed:
 Task 1: Basic Data Exploration:
+
 Performed the following calculations:
 
 Total Price: Calculated the sum of all product prices.
