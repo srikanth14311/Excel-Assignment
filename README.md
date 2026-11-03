@@ -135,7 +135,8 @@ Practiced conditional calculations using SUMIF and COUNTIF.
 Learned how to extract information from text fields using LEFT, RIGHT, and MID.
 Developed foundational skills for real-world data analysis tasks.
 
-9. Conclusion
+9. Conclusion:
+    
 This project helped develop a strong foundation in Microsoft Excel for data analysis. By applying basic mathematical, logical, conditional, and text functions, useful information was extracted and summarized from the product dataset.
 
 These skills provide a foundation for more advanced data analysis techniques using Excel, SQL, Power BI, and Python.
