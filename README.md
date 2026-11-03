@@ -6,7 +6,7 @@
 
 This project demonstrates fundamental Excel skills that are essential for a beginner Data Analyst.
 
-2. Dataset Description:
+## 2. Dataset Description:
 
 Dataset Name: Product Dataset
 The dataset contains information about different products, including their identification details, brand information, quantity, category, and price.
@@ -27,7 +27,7 @@ Category - Product category
 
 Price - Price of the product
 
-3. Project Objectives:
+## 3. Project Objectives:
 
 The main objectives of this project are:
 Perform basic data exploration.
@@ -38,7 +38,7 @@ Perform conditional calculations.
 Extract specific information from Product IDs.
 Improve practical Excel formula skills.
 
-4. Excel Functions Used:
+## 4. Excel Functions Used:
 
 This project uses the following Excel functions:
 
@@ -66,7 +66,7 @@ RIGHT - Extracts the last two characters of Product ID
 
 MID - Extracts characters from the middle of Product ID
 
-5. Tasks Performed:
+## 5. Tasks Performed:
 
 Task 1: Basic Data Exploration:
 
@@ -94,7 +94,7 @@ Condition	Classification
 Price >= $500	High Price
 Price < $500	Standard Price
 
-Excel Formula:
+### Excel Formula:
 
 =IF(F2>=500,"High Price","Standard Price")
 
@@ -126,7 +126,7 @@ Extracted the last two characters from Product ID.
 Extracted characters from the 4th to 6th positions of Product ID.
 =MID(A2,4,3)
 
-6. Skills Demonstrated:
+## 6. Skills Demonstrated:
 Through this project, I demonstrated the following skills:
 Microsoft Excel
 Data Exploration
@@ -136,18 +136,18 @@ Conditional Aggregation
 Text Manipulation
 Basic Data Analysis
 
-7. Tools Used:
+## 7. Tools Used:
 Microsoft Excel: Data exploration, calculations, and analysis.	
 GitHub: Project documentation and portfolio management.
 
-8. Key Learning Outcomes:
+## 8. Key Learning Outcomes:
 Learned how to summarize datasets using Excel formulas.
 Understood how to apply logical conditions using the IF function.
 Practiced conditional calculations using SUMIF and COUNTIF.
 Learned how to extract information from text fields using LEFT, RIGHT, and MID.
 Developed foundational skills for real-world data analysis tasks.
 
-9. Conclusion:
+## 9. Conclusion:
     
 This project helped develop a strong foundation in Microsoft Excel for data analysis. By applying basic mathematical, logical, conditional, and text functions, useful information was extracted and summarized from the product dataset.
 
