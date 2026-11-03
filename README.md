@@ -136,7 +136,7 @@ Conditional Aggregation
 Text Manipulation
 Basic Data Analysis
 
-## 7. Tools Used:
+## 7.| Tools Used:|
 | Tool | Names |
 | Microsoft Excel:| Data exploration, calculations, and analysis.	
 | GitHub:| Project documentation and portfolio management.
