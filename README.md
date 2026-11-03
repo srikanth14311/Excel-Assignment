@@ -31,8 +31,11 @@ This project uses the following Excel functions:
 
 Function	Purpose:
 SUM - Calculates the total price of all products
+
 COUNT / COUNTA - Counts numeric values or non-empty product records
+
 AVERAGE - Calculates the average product price
+
 MIN - Identifies the minimum product price
 MAX - Identifies the maximum product price
 IF - Categorizes products based on price
